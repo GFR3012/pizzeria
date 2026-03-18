@@ -27,7 +27,7 @@ promo:"32,90"
 
 {
 nome:"Frango Catupiry",
-img:"/pizza-de-frango-com-catupiry.jpg",
+img:"/Pizza-de-frango-com-catupiry.jpg",
 preco:"44,90",
 promo:"34,90"
 }
