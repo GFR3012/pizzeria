@@ -16,7 +16,7 @@ src="/fundo.jpg"
 <div className="flex flex-col justify-center h-[70vh] ms-40">
 
 <h1 className="text-7xl text-yellow-400 font-bold">
-PITZA
+PIZZA ITALIANO
 </h1>
 
 <h2 className="text-3xl text-white mt-3">

@@ -26,7 +26,7 @@ Fale Conosco
 </h1>
 
 <p className="text-xl">
-📞 Telefone: (11) 4002-8922
+📞 Telefone: (12) 4002-8922
 </p>
 
 <p className="text-xl mt-3">
@@ -49,7 +49,7 @@ loading="lazy"
 </p>
 
 <p className="text-xl mt-3">
-💬 WhatsApp: (11) 99999-9999
+💬 WhatsApp: (12) 99569-1297
 </p>
 
 <div className="mt-10">
@@ -71,7 +71,7 @@ className="w-full h-32 p-3 rounded-xl bg-neutral-800 outline-none focus:ring-2 f
 placeholder="Sua mensagem"
 />
 
-<button className="bg-red-600 w-full h-12 rounded-xl mt-5 hover:bg-red-700 transition font-semibold">
+<button className="bg-red-600 w-full h-12 rounded-xl mt-5  hover:bg-red-700 transition font-semibold">
 
 Enviar mensagem
 

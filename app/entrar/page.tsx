@@ -37,7 +37,7 @@ type="password"
 placeholder="Senha"
 />
 
-<button className="bg-red-600 w-full h-12 rounded-xl hover:bg-red-700 transition font-semibold">
+<button className="cursor-pointer bg-red-600 w-full h-12 rounded-xl hover:bg-red-700 transition font-semibold">
 
 Entrar
 
